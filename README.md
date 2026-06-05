@@ -97,3 +97,5 @@ CI/CD
 
 The GitHub Actions workflow `/.github/workflows/ci.yml` now builds the frontend (`npm ci && npm run build`) if `frontend/package.json` is present, copies built assets into `static/` for Django to collect, then installs Python deps, runs migrations, checks, and tests.
 
+
+* SPA scaffold: add initial changes
