@@ -1,0 +1,9 @@
+Django>=4.2,<5
+gunicorn
+djangorestframework>=3.14
+pytest
+pytest-django
+requests
+
+djangorestframework-simplejwt>=5.2.0
+django-cors-headers>=4.0.0

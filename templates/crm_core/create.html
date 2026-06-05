@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Create Account</h1>
+  <form method="post">
+    {% csrf_token %}
+    <div class="mb-3">
+      {{ form.name.label_tag }}
+      {{ form.name }}
+    </div>
+    <div class="mb-3">
+      {{ form.industry.label_tag }}
+      {{ form.industry }}
+    </div>
+    <button class="btn btn-primary" type="submit">Create</button>
+    <a href="{% url 'account-list' %}" class="btn btn-secondary">Cancel</a>
+  </form>
+{% endblock %}
