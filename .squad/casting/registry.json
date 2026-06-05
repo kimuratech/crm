@@ -1,0 +1,14 @@
+{
+  "registry": [
+    {"persistent_name":"ripley","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"},
+    {"persistent_name":"keaton","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"},
+    {"persistent_name":"dallas","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"},
+    {"persistent_name":"hockney","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"},
+    {"persistent_name":"gordon","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"},
+    {"persistent_name":"scribe","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"},
+    {"persistent_name":"ralph","universe":"default","created_at":"2026-06-05T00:00:00Z","legacy_named":false,"status":"active"}
+  ]
+}
+{
+  "agents": {}
+}
