@@ -11,3 +11,6 @@ db.sqlite3
 .squad/.scratch/
 # Squad: SubSquad activation file (local to this machine)
 .squad-workstream
+
+# Frontend
+frontend/node_modules/
