@@ -1,3 +1,15 @@
+## Members
+
+| Name    | Role    | Notes |
+|---------|---------|-------|
+| Keaton  | Lead    | Project lead, architecture decisions |
+| Dallas  | Backend | Django & API work |
+| Hockney | Frontend| SPA, React, UI |
+| Fenster | Tester  | E2E + QA |
+| Scribe  | Session Logger | Maintains decisions & logs |
+| Ralph   | Work Monitor | Keeps the pipeline moving |
+
+Project: CRM MVP — verification team to validate MVP1-3
 # Squad Team
 
 Project: CRM (Salesforce/Dynamics-like)

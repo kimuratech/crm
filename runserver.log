@@ -1,0 +1,9 @@
+Watching for file changes with StatReloader
+[06/Jun/2026 16:44:34] "HEAD / HTTP/1.1" 200 0
+[06/Jun/2026 16:44:39] "GET / HTTP/1.1" 200 387
+[06/Jun/2026 16:44:42] "HEAD /static/assets/index-CvdeFe4R.css HTTP/1.1" 200 0
+[06/Jun/2026 16:47:36] "GET / HTTP/1.1" 200 387
+Not Found: /assets/index-CvdeFe4R.css
+Not Found: /assets/index-DERpwYbw.js
+[06/Jun/2026 16:47:36] "GET /assets/index-CvdeFe4R.css HTTP/1.1" 404 3410
+[06/Jun/2026 16:47:36] "GET /assets/index-DERpwYbw.js HTTP/1.1" 404 3407

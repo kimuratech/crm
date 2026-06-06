@@ -9,6 +9,8 @@ export default function Sidebar() {
         <NavLink to="/dashboard" className="nav-link text-white" activeclassname="active">Dashboard</NavLink>
         <NavLink to="/accounts" className="nav-link text-white" activeclassname="active">Accounts</NavLink>
         <NavLink to="/contacts" className="nav-link text-white" activeclassname="active">Contacts</NavLink>
+        <NavLink to="/deals" className="nav-link text-white" activeclassname="active">Deals</NavLink>
+        <NavLink to="/pipeline" className="nav-link text-white" activeclassname="active">Pipeline</NavLink>
       </nav>
       <div className="mt-auto small text-white-50">Built with Vite + React</div>
     </aside>
